@@ -11,18 +11,14 @@
             "id": "74fb965c3f9dac96",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    true
-                  ]
-                }
+                "file": "sosiska/lolssss.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "lolssss"
             }
           }
         ]
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "sosiska/lolssss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled Kanban"
+              "title": "Backlinks for lolssss"
             }
           },
           {
@@ -117,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "sosiska/lolssss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled Kanban"
+              "title": "Outgoing links from lolssss"
             }
           },
           {
@@ -160,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "sosiska/lolssss.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled Kanban"
+              "title": "Outline of lolssss"
             }
           },
           {
@@ -205,8 +201,8 @@
   },
   "active": "74fb965c3f9dac96",
   "lastOpenFiles": [
-    "testcases/101 - qqqq.md",
     "Untitled Kanban.md",
+    "testcases/101 - qqqq.md",
     "testcases/11 - Untitled 1.md",
     "Untitled Kanban 1.md",
     "Untitled.md",
