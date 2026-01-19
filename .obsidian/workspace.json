@@ -57,11 +57,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"testcases/\" ",
+                "query": "path:\"testcases/\" [\"priority\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
