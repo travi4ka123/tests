@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"UserStory\":\"qweqwe\"] OR [\"priority\":\"smoke\"]",
+                "query": "path:\"testcases/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,7 +214,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "40b6ce3fcb2377f0",
+  "active": "f554dd461d607d44",
   "lastOpenFiles": [
     "blblllbb.md",
     "Untitled Kanban 1.md",
