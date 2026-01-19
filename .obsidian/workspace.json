@@ -11,10 +11,18 @@
             "id": "74fb965c3f9dac96",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "kanban",
+              "state": {
+                "file": "Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    true
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ]
@@ -90,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Untitled Kanban"
             }
           },
           {
@@ -108,11 +117,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Untitled Kanban"
             }
           },
           {
@@ -150,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Kanban 1.md",
+                "file": "Untitled Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled Kanban 1"
+              "title": "Outline of Untitled Kanban"
             }
           },
           {
@@ -193,13 +203,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "68400c3626a3a310",
+  "active": "74fb965c3f9dac96",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
-    "Untitled Kanban 1.md",
     "testcases/101 - qqqq.md",
-    "Untitled.md",
+    "Untitled Kanban.md",
     "testcases/11 - Untitled 1.md",
+    "Untitled Kanban 1.md",
+    "Untitled.md",
     "Templates/Test_Case_Template.md 1.md",
     "sosiska/lolssss.md",
     "Templates/Test_Case_Template.md.md",
