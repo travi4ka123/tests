@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sosiska/lolssss.md",
-                "mode": "preview",
+                "file": "sosiska/Untitled.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lolssss"
+              "title": "Untitled"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sosiska/lolssss.md",
+                "file": "sosiska/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for lolssss"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sosiska/lolssss.md",
+                "file": "sosiska/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from lolssss"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sosiska/lolssss.md",
+                "file": "sosiska/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of lolssss"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -198,10 +197,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f554dd461d607d44",
+  "active": "74fb965c3f9dac96",
   "lastOpenFiles": [
-    "Templates/Test_Case_Template.md.md",
+    "sosiska/Untitled 1.md",
     "sosiska/lolssss.md",
+    "Templates/Test_Case_Template.md.md",
     "Dataview/Smoke_Tests_Report.md.md",
     "Dataview",
     "sosiska/Untitled.md",

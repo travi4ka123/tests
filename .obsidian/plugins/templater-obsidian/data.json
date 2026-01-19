@@ -32,7 +32,7 @@
     ""
   ],
   "startup_templates": [
-    ""
+    "Templates/Test_Case_Template.md.md"
   ],
   "intellisense_render": 1
 }
