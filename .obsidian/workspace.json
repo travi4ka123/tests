@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"testcases/\" [\"priority\"]",
+                "query": "path:\"testcases/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -214,15 +214,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f554dd461d607d44",
+  "active": "40b6ce3fcb2377f0",
   "lastOpenFiles": [
-    "blblllbb.md",
-    "Untitled Kanban 1.md",
-    "Templates/Test_Case_Template.md.md",
-    "sosiska/lolssss.md",
-    "Untitled Kanban 3.md",
     "testcases/11 - Untitled 1.md",
     "testcases/101 - qqqq.md",
+    "Untitled Kanban 3.md",
+    "Untitled Kanban 1.md",
+    "blblllbb.md",
+    "Templates/Test_Case_Template.md.md",
+    "sosiska/lolssss.md",
     "Untitled Kanban 2.md",
     "Untitled Kanban 5.md",
     "Untitled Kanban 4.md",
