@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,7 +210,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "74fb965c3f9dac96",
+  "active": "f554dd461d607d44",
   "lastOpenFiles": [
     "sosiska/lolssss.md",
     "Templates/Test_Case_Template.md.md",
