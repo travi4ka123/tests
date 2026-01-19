@@ -1,7 +1,6 @@
 ---
 ID: 1
 Priority:
-  - critical
 Tags:
 Status: Draft
 ---
