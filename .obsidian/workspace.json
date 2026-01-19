@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"priority\":",
+                "query": "[\"priority\":\"smoke\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
