@@ -1,7 +1,5 @@
 ---
-
-kanban-plugin: board
-
+kanban-plugin: list
 ---
 
 ## 
@@ -10,6 +8,10 @@ kanban-plugin: board
 
 ## qwe
 
+- [ ] [[101 - qqqq]]
+- [ ] [[11 - Untitled 1]]
+- [ ] [[lolssss]]
+- [ ] [[Test_Case_Template.md]]
 
 
 
