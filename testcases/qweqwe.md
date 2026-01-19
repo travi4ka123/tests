@@ -1,9 +1,11 @@
+```
 ---
-ID: 1
-Priority:
-  - smoke
-  - critical
-  - extended
+ID: оооо
+Priority: critical
 Tags:
 Status: Draft
 ---
+# [ID]: [Название тест-кейса] 
+
+...
+```
