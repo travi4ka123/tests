@@ -4,25 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7fe7d4bc1340059a",
+        "id": "32cbb348eb00feaa",
         "type": "tabs",
         "children": [
           {
-            "id": "160393815ef2edb5",
+            "id": "40b6ce3fcb2377f0",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Untitled Kanban 2.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban 2"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
