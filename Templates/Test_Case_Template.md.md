@@ -1,9 +1,6 @@
 ---
-ID: 1
-Priority:
-  - smoke
-  - critical
-  - extended
+ID:
+Priority: false
 Tags:
 Status: Draft
 ---

@@ -11,18 +11,14 @@
             "id": "74fb965c3f9dac96",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Untitled Kanban 1.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
+                "file": "Templates/Test_Case_Template.md.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban 1"
+              "icon": "lucide-file",
+              "title": "Test_Case_Template.md"
             }
           }
         ]
@@ -203,10 +199,10 @@
   },
   "active": "74fb965c3f9dac96",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
-    "Untitled Kanban 1.md",
-    "testcases/101 - qqqq.md",
     "sosiska/lolssss.md",
+    "Untitled Kanban 1.md",
+    "Untitled Kanban.md",
+    "testcases/101 - qqqq.md",
     "testcases/11 - Untitled 1.md",
     "Untitled.md",
     "Templates/Test_Case_Template.md 1.md",
