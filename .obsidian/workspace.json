@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sosiska/Untitled.md",
+                "file": "sosiska/lolssss.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "lolssss"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sosiska/Untitled.md",
+                "file": "sosiska/lolssss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for lolssss"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sosiska/Untitled.md",
+                "file": "sosiska/lolssss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from lolssss"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sosiska/Untitled.md",
+                "file": "sosiska/lolssss.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of lolssss"
             }
           },
           {
@@ -199,8 +199,8 @@
   },
   "active": "74fb965c3f9dac96",
   "lastOpenFiles": [
-    "sosiska/lolssss.md",
     "sosiska/Untitled.md",
+    "sosiska/lolssss.md",
     "testcases/qweqwe.md",
     "Templates/Test_Case_Template.md.md",
     "Templates",
