@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,15 +193,16 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "githobs:Manage a github issue": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "67a0ec1d96f6faf2",
   "lastOpenFiles": [
     "Templates/Test_Case_Template.md.md",
     "testcases/qweqwe.md",
-    "Templates",
     "sosiska/lol.md",
+    "Templates",
     "sosiska",
     "Untitled.md",
     "Untitled 1.md",
