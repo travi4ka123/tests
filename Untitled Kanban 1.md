@@ -4,10 +4,8 @@ kanban-plugin: board
 
 ---
 
-## Regrrrr
+## qwe
 
-- [ ] [[11 - Untitled 1]]
-- [ ] [[lolssss]]
 
 
 

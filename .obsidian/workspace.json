@@ -13,16 +13,16 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "Untitled Kanban 1.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
-                    false
+                    true
                   ]
                 }
               },
               "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "title": "Untitled Kanban 1"
             }
           }
         ]
@@ -185,10 +185,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled Kanban.md"
+                "file": "Untitled Kanban 1.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled Kanban"
+              "title": "File properties for Untitled Kanban 1"
             }
           }
         ],
@@ -215,8 +215,8 @@
   },
   "active": "160393815ef2edb5",
   "lastOpenFiles": [
-    "Untitled Kanban 1.md",
     "Untitled Kanban.md",
+    "Untitled Kanban 1.md",
     "Untitled Kanban 2.md",
     "Untitled Kanban 5.md",
     "Untitled Kanban 3.md",
