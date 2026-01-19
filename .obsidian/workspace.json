@@ -190,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 536.5
+    "width": 536.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,7 +208,7 @@
       "modalforms:Edit forms": false
     }
   },
-  "active": "db8ef2eb452a9eb9",
+  "active": "74fb965c3f9dac96",
   "lastOpenFiles": [
     "sosiska/lolssss.md",
     "Templates/Test_Case_Template.md 1.md",
