@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Test_Case_Template.md.md",
+                "file": "sosiska/lol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test_Case_Template.md"
+              "title": "lol"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Test_Case_Template.md.md",
+                "file": "sosiska/lol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Test_Case_Template.md"
+              "title": "Backlinks for lol"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Test_Case_Template.md.md",
+                "file": "sosiska/lol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Test_Case_Template.md"
+              "title": "Outgoing links from lol"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Test_Case_Template.md.md",
+                "file": "sosiska/lol.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test_Case_Template.md"
+              "title": "Outline of lol"
             }
           },
           {
@@ -200,8 +200,8 @@
   "active": "74fb965c3f9dac96",
   "lastOpenFiles": [
     "testcases/qweqwe.md",
-    "sosiska/lol.md",
     "Templates/Test_Case_Template.md.md",
+    "sosiska/lol.md",
     "Templates",
     "sosiska",
     "Untitled.md",
