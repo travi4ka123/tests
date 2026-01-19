@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] [[11 - Untitled 1]]
 - [ ] [[lolssss]]
+- [ ] [[Все файлы.md]]
 
 
 

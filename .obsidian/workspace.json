@@ -24,6 +24,20 @@
               "icon": "lucide-trello",
               "title": "Untitled Kanban 1"
             }
+          },
+          {
+            "id": "b8ab783953cc74ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Все файлы.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Все файлы.md"
+            }
           }
         ]
       }
@@ -215,9 +229,10 @@
   },
   "active": "40b6ce3fcb2377f0",
   "lastOpenFiles": [
+    "Все файлы.md.md",
+    "Untitled Kanban 1.md",
     "sosiska/lolssss.md",
     "Templates/Test_Case_Template.md.md",
-    "Untitled Kanban 1.md",
     "testcases/11 - Untitled 1.md",
     "testcases/101 - qqqq.md",
     "Untitled Kanban 3.md",
