@@ -3,6 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "ID": "multitext"
+    "ID": "number",
+    "Priority": "multitext"
   }
 }
