@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Dataview/Smoke_Tests_Report.md.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"priority\":",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,7 +198,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "74fb965c3f9dac96",
+  "active": "f554dd461d607d44",
   "lastOpenFiles": [
     "sosiska/lolssss.md",
     "Dataview/Smoke_Tests_Report.md.md",
