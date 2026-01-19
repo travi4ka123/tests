@@ -1,6 +1,7 @@
 ---
 ID: "13"
-Priority:
+Priority: smoke
 Tags:
+  - blabla
 Status: Draft
 ---
