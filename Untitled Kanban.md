@@ -1,5 +1,7 @@
 ---
-kanban-plugin: list
+
+kanban-plugin: board
+
 ---
 
 ## 
@@ -8,16 +10,16 @@ kanban-plugin: list
 
 ## qwe
 
-- [ ] [[101 - qqqq]]
-- [ ] [[11 - Untitled 1]]
-- [ ] [[lolssss]]
-- [ ] [[Test_Case_Template.md]]
+
+
+## In progress
+
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,false]}
+{"kanban-plugin":"board","list-collapse":[true,false,false]}
 ```
 %%

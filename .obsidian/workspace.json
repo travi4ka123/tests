@@ -13,17 +13,16 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "Untitled Kanban 1.md",
                 "kanbanViewState": {
-                  "kanban-plugin": "list",
+                  "kanban-plugin": "board",
                   "list-collapse": [
-                    true,
                     false
                   ]
                 }
               },
               "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "title": "Untitled Kanban 1"
             }
           }
         ]
@@ -204,11 +203,11 @@
   },
   "active": "74fb965c3f9dac96",
   "lastOpenFiles": [
-    "testcases/101 - qqqq.md",
     "Untitled Kanban.md",
+    "Untitled Kanban 1.md",
+    "testcases/101 - qqqq.md",
     "sosiska/lolssss.md",
     "testcases/11 - Untitled 1.md",
-    "Untitled Kanban 1.md",
     "Untitled.md",
     "Templates/Test_Case_Template.md 1.md",
     "Templates/Test_Case_Template.md.md",
