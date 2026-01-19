@@ -11,10 +11,18 @@
             "id": "40b6ce3fcb2377f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "kanban",
+              "state": {
+                "file": "Untitled Kanban 3.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban 3"
             }
           }
         ]
@@ -70,8 +78,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,10 +185,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled Kanban 2.md"
+                "file": "Untitled Kanban 3.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled Kanban 2"
+              "title": "File properties for Untitled Kanban 3"
             }
           }
         ],
@@ -206,14 +213,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f554dd461d607d44",
+  "active": "40b6ce3fcb2377f0",
   "lastOpenFiles": [
     "sosiska/lolssss.md",
+    "Untitled Kanban 3.md",
     "Untitled Kanban 2.md",
     "Untitled Kanban 1.md",
     "Untitled Kanban.md",
     "Untitled Kanban 5.md",
-    "Untitled Kanban 3.md",
     "Templates/Test_Case_Template.md.md",
     "Untitled Kanban 4.md",
     "testcases/11 - Untitled 1.md",
