@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sosiska/lolssss.md",
+                "file": "Dataview/Smoke_Tests_Report.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lolssss"
+              "title": "Smoke_Tests_Report.md"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sosiska/lolssss.md",
+                "file": "Dataview/Smoke_Tests_Report.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for lolssss"
+              "title": "Backlinks for Smoke_Tests_Report.md"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sosiska/lolssss.md",
+                "file": "Dataview/Smoke_Tests_Report.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from lolssss"
+              "title": "Outgoing links from Smoke_Tests_Report.md"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sosiska/lolssss.md",
+                "file": "Dataview/Smoke_Tests_Report.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of lolssss"
+              "title": "Outline of Smoke_Tests_Report.md"
             }
           },
           {
@@ -199,8 +199,10 @@
   },
   "active": "74fb965c3f9dac96",
   "lastOpenFiles": [
-    "sosiska/Untitled.md",
     "sosiska/lolssss.md",
+    "Dataview/Smoke_Tests_Report.md.md",
+    "Dataview",
+    "sosiska/Untitled.md",
     "testcases/qweqwe.md",
     "Templates/Test_Case_Template.md.md",
     "Templates",
