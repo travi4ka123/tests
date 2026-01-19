@@ -7,6 +7,8 @@ kanban-plugin: board
 ## 
 
 - [ ] [[lolssss]]
+- [ ] [[101 - qqqq]]
+- [ ] [[Test_Case_Template.md]]
 
 
 
