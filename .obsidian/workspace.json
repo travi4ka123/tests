@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"priority\":\"smoke\"] [\"tags\":\"lol\"]",
+                "query": "[\"priority\":\"smoke\"] and[\"tags\":\"lol\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
