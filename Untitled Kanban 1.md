@@ -13,10 +13,16 @@ kanban-plugin: board
 - [ ] [[Все файлы.md]]
 
 
+## 
+
+- [ ] [[Untitled Kanban 1|Untitled Kanban 1]]
+- [ ] [[Untitled Kanban 3|Untitled Kanban 3]]
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false]}
+{"kanban-plugin":"board","list-collapse":[false,false]}
 ```
 %%
