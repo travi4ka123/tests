@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "testcases/qweqwe.md",
+                "file": "sosiska/lol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "qweqwe"
+              "title": "lol"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testcases/qweqwe.md",
+                "file": "sosiska/lol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for qweqwe"
+              "title": "Backlinks for lol"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testcases/qweqwe.md",
+                "file": "sosiska/lol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from qweqwe"
+              "title": "Outgoing links from lol"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testcases/qweqwe.md",
+                "file": "sosiska/lol.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of qweqwe"
+              "title": "Outline of lol"
             }
           },
           {
@@ -195,11 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68400c3626a3a310",
+  "active": "67a0ec1d96f6faf2",
   "lastOpenFiles": [
+    "Templates/Test_Case_Template.md.md",
+    "testcases/qweqwe.md",
     "Templates",
     "sosiska/lol.md",
-    "testcases/qweqwe.md",
     "sosiska",
     "Untitled.md",
     "Untitled 1.md",
