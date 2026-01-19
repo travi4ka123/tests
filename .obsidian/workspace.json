@@ -11,14 +11,16 @@
             "id": "74fb965c3f9dac96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "testcases/11 - Untitled 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
               },
-              "icon": "lucide-file",
-              "title": "11 - Untitled 1"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ]
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testcases/11 - Untitled 1.md",
+                "file": "Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 11 - Untitled 1"
+              "title": "Backlinks for Untitled Kanban"
             }
           },
           {
@@ -113,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testcases/11 - Untitled 1.md",
+                "file": "Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 11 - Untitled 1"
+              "title": "Outgoing links from Untitled Kanban"
             }
           },
           {
@@ -156,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testcases/11 - Untitled 1.md",
+                "file": "Untitled Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 11 - Untitled 1"
+              "title": "Outline of Untitled Kanban"
             }
           },
           {
@@ -174,19 +176,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "db8ef2eb452a9eb9",
-            "type": "leaf",
-            "state": {
-              "type": "modal-form-manage-forms-view",
-              "state": {},
-              "icon": "documents",
-              "title": "Manage forms"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -205,17 +197,20 @@
       "githobs:Manage a github issue": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "modalforms:Edit forms": false
+      "modalforms:Edit forms": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "68400c3626a3a310",
+  "active": "74fb965c3f9dac96",
   "lastOpenFiles": [
+    "Untitled Kanban 1.md",
+    "Untitled Kanban.md",
     "testcases/101 - qqqq.md",
-    "testcases/11 - Untitled 1.md",
     "Untitled.md",
+    "testcases/11 - Untitled 1.md",
+    "Templates/Test_Case_Template.md 1.md",
     "sosiska/lolssss.md",
     "Templates/Test_Case_Template.md.md",
-    "Templates/Test_Case_Template.md 1.md",
     "Dataview/Smoke_Tests_Report.md.md",
     "Dataview",
     "Templates",
