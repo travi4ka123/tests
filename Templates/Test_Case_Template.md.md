@@ -1,6 +1,4 @@
 ---
 ID:
-Priority: false
-Tags:
-Status: Draft
+Priority:
 ---
