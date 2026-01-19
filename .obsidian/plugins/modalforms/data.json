@@ -248,6 +248,40 @@
           }
         }
       ]
+    },
+    {
+      "title": "Test case",
+      "name": "TTEst case",
+      "version": "1",
+      "fields": [
+        {
+          "name": "Priority",
+          "label": "",
+          "description": "",
+          "input": {
+            "type": "select",
+            "allowUnknownValues": false,
+            "hidden": false,
+            "options": [
+              {
+                "value": "smoke",
+                "label": ""
+              },
+              {
+                "value": "critical",
+                "label": ""
+              },
+              {
+                "value": "extended",
+                "label": ""
+              }
+            ],
+            "source": "fixed"
+          },
+          "isRequired": false
+        }
+      ],
+      "customClassname": "Test Caes"
     }
   ]
 }
