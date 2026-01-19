@@ -13,14 +13,14 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Untitled Kanban 2.md",
+                "file": "Untitled Kanban 4.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": []
                 }
               },
               "icon": "lucide-trello",
-              "title": "Untitled Kanban 2"
+              "title": "Untitled Kanban 4"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"UserStory\":\"qweqwe\"]",
+                "query": "[\"UserStory\":\"qweqwe\"] OR [\"priority\":\"smoke\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -184,10 +184,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled Kanban 2.md"
+                "file": "Untitled Kanban 4.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled Kanban 2"
+              "title": "File properties for Untitled Kanban 4"
             }
           }
         ],
@@ -214,13 +214,15 @@
   },
   "active": "74fb965c3f9dac96",
   "lastOpenFiles": [
-    "Templates/Test_Case_Template.md.md",
+    "testcases/11 - Untitled 1.md",
+    "Untitled Kanban 4.md",
+    "Untitled Kanban 3.md",
     "Untitled Kanban 2.md",
+    "Templates/Test_Case_Template.md.md",
     "sosiska/lolssss.md",
     "Untitled Kanban 1.md",
     "Untitled Kanban.md",
     "testcases/101 - qqqq.md",
-    "testcases/11 - Untitled 1.md",
     "Untitled.md",
     "Templates/Test_Case_Template.md 1.md",
     "Dataview/Smoke_Tests_Report.md.md",
