@@ -53,11 +53,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"priority\":\"smoke\"] and[\"tags\":\"lol\"]",
+                "query": "[\"priority\":\"smoke\"] OR [\"tags\":\"lol\"]",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": true,
+                "collapseAll": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -200,12 +200,12 @@
   },
   "active": "f554dd461d607d44",
   "lastOpenFiles": [
-    "Dataview/Smoke_Tests_Report.md.md",
+    "Templates/Test_Case_Template.md.md",
     "sosiska/lolssss.md",
+    "Dataview/Smoke_Tests_Report.md.md",
     "Dataview",
     "sosiska/Untitled.md",
     "testcases/qweqwe.md",
-    "Templates/Test_Case_Template.md.md",
     "Templates",
     "sosiska",
     "Untitled.md",
