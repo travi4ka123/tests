@@ -174,14 +174,50 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "db8ef2eb452a9eb9",
+            "type": "leaf",
+            "state": {
+              "type": "modal-form-manage-forms-view",
+              "state": {},
+              "icon": "documents",
+              "title": "Manage forms"
+            }
+          },
+          {
+            "id": "76971531decedb3b",
+            "type": "leaf",
+            "state": {
+              "type": "modal-form-edit-form-view",
+              "state": {
+                "title": "new_tc",
+                "name": "new_tc",
+                "version": "1",
+                "fields": [
+                  {
+                    "name": "",
+                    "label": "",
+                    "description": "",
+                    "input": {
+                      "type": "text",
+                      "allowUnknownValues": false,
+                      "hidden": false
+                    },
+                    "isRequired": false
+                  }
+                ]
+              },
+              "icon": "note-glyph",
+              "title": "Edit form"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 822.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,10 +230,11 @@
       "bases:Create new base": false,
       "githobs:Manage a github issue": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "modalforms:Edit forms": false
     }
   },
-  "active": "74fb965c3f9dac96",
+  "active": "76971531decedb3b",
   "lastOpenFiles": [
     "sosiska/lolssss.md",
     "Templates/Test_Case_Template.md 1.md",
