@@ -31,8 +31,6 @@
   "enabled_templates_hotkeys": [
     ""
   ],
-  "startup_templates": [
-    "Templates/Test_Case_Template.md.md"
-  ],
+  "startup_templates": [],
   "intellisense_render": 1
 }
